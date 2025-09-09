@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 Introduction  
+##  Introduction  
 So far, we deployed the Flask app directly to Azure.  
 
 In real-world projects, developers often use **Docker** to package applications into containers.  
@@ -13,7 +13,7 @@ Containers ensure your app **runs the same way everywhere** – on your laptop, 
 
 ---
 
-## 🚀 Example Scenario  
+##  Example Scenario  
 You have a Flask app that connects to MongoDB.  
 
 - Without Docker → install Python, Flask, MongoDB, dependencies manually.  
@@ -24,7 +24,7 @@ You have a Flask app that connects to MongoDB.
 docker-compose up
 ```
 
-### ⚙️ Step 1: Install Docker
+###  Step 1: Install Docker
 
 Install Docker Desktop
  (Windows/Mac)
