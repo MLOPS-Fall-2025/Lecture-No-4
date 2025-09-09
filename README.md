@@ -22,12 +22,16 @@ You have a Flask app that connects to MongoDB.
 
 ```bash
 docker-compose up
+```
 
-⚙️ Step 1: Install Docker
+### ⚙️ Step 1: Install Docker
 
 Install Docker Desktop
  (Windows/Mac)
 
 On Linux:
+
+```
 sudo apt update
 sudo apt install docker.io docker-compose -y
+```
