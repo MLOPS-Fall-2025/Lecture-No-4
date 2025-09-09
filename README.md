@@ -35,3 +35,10 @@ On Linux:
 sudo apt update
 sudo apt install docker.io docker-compose -y
 ```
+
+### Verify installation:
+
+```
+docker --version
+docker-compose --version
+```
