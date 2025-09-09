@@ -36,9 +36,11 @@ sudo apt update
 sudo apt install docker.io docker-compose -y
 ```
 
-### Verify installation:
+Verify installation:
 
 ```
 docker --version
 docker-compose --version
 ```
+
+---
